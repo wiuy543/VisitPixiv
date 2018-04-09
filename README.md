@@ -1,0 +1,2 @@
+# pixiv_hosts
+将访问p站的代理地址快速添加到Windows系统的Hosts文件中
